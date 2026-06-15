@@ -10,10 +10,6 @@
 
 **ML Engineering Fundamentals**
 
-### Duration
-
-**Weeks 1–4**
-
 ### Case Study
 
 **Predicting Customer Churn for a Subscription Business**
