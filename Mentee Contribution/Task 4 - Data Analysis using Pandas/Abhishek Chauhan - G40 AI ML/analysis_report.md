@@ -7,12 +7,13 @@ An end-to-end Python-based data engineering and descriptive analytics pipeline t
 
 ## 📂 Repository Structure
 
+```text
 ├── Notebook.ipynb                     # Main Jupyter Notebook containing the full pipeline
 ├── Superstore_data.csv                # Raw, uncleaned transaction dataset (Source)
 ├── Cleaned_sales.csv                  # Standardized, type-correct output dataset 
 |── Charts                             # Folder containing plots images on data.
 └── anaysis_report.md                  # Repository documentation and analysis summary
-
+```
 
 
 ## 1. Dataset Overview
