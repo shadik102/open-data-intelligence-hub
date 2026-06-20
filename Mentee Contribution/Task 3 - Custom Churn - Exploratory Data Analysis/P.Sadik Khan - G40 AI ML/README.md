@@ -1,7 +1,7 @@
 # Task 3 - Custom Churn Exploratory Data Analysis
 
 ## Name
-P. Sadik Khan
+P. Shadik Khan
 
 ## Batch
 G40 AI ML
